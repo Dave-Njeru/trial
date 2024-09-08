@@ -1,4 +1,4 @@
-# trial
+# Git trial
 Practice account  for learning Git - Meta
 
 This project was a key component of the Meta Front-end Developer online certification program, specifically focusing on the version control module. The primary objective was to provide hands-on experience with Git, a widely used version control system in software development. By engaging in this project, participants aimed to enhance their skills in managing and tracking changes in their codebase, a crucial competency for modern front-end developers.
